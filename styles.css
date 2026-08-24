@@ -1,0 +1,19 @@
+body{
+    background-color: #efb3e9;
+}
+
+#search{
+    margin:auto;
+    width: 50%;
+}
+
+#cityInput{
+    width: 100%;
+}
+#searchButton{
+    width: 100%;
+    background-color: #f7c6e7;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
