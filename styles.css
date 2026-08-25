@@ -32,7 +32,7 @@ nav{
     text-align: center;
     border-radius: 100px;
     margin-left: 20px;
-    width: 95%;
+    flex: 1;
 }
 ul{
     list-style-type: none;
